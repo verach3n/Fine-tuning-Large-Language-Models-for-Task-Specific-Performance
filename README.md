@@ -30,5 +30,47 @@ The framework supports both **training and evaluation**, making it easy to exper
 ### Setup
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/verach3n/Fine-tuning-Large-Language-Models-for-Task-Specific-Performance.git
+cd Fine-tuning-Large-Language-Models-for-Task-Specific-Performance
+```
+Due to package conflicts, two separate environments are required. Install dependencies as follows:
+
+1. **First Environment**  
+   Install dependencies from `requirements1.txt`:
+   ```bash
+   pip install -r ppl/requirements1.txt
+    ```
+
+2. **Second Environment**  
+   Install dependencies from `requirements2.txt`:
+   ```bash
+   pip install -r ppl/requirements2.txt
+    ```
+
+
+   
+## 4. Usage
+
+### Usage
+
+### Training
+
+
+### Evaluation
+
+
+## 5. Configuration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
