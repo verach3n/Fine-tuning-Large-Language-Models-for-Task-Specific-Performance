@@ -47,11 +47,10 @@ Due to package conflicts, two separate environments are required. Install depend
    pip install -r ppl/requirements2.txt
     ```
 
-
-   
 ## 4. Usage
 
 ### Usage
+
 
 ### Training
 
@@ -61,8 +60,21 @@ Due to package conflicts, two separate environments are required. Install depend
 
 ## 5. Configuration
 
-
-
+## 6. File Structure*
+The repository is organized as follows:
+```bash
+ppl/
+├── gsm8k           
+│   ├── lora.py
+│   ├── rosa.py
+│   ├── galore.py
+├── news           
+│   ├── lora.py
+│   ├── rosa.py
+│   ├── galore.py
+├── requirements1.txt       # Dependencies
+└── requirements2.txt       # Dependencies
+```
 
 
 
