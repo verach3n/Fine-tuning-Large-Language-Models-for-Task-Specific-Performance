@@ -10,7 +10,7 @@ The framework supports both **training and evaluation**, making it easy to exper
 
 - Supports three fine-tuning methods:
   - [LoRA](https://arxiv.org/abs/2106.09685) (Low-Rank Adaptation)
-  - [RoSA](https://arxiv.org/abs/2401.04679) (Robust Sparse Adaptation)
+  - [RoSA](https://arxiv.org/abs/2401.04679) (Robust Adaptation)
   - [GaLore](https://arxiv.org/abs/2401.04679) (Gradient Low-Rank Adaptation)
 - Fine-tuning for two tasks:
   - GSM8K (Grade School Math 8K dataset)
