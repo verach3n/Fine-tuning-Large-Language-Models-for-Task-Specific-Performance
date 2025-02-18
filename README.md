@@ -106,14 +106,14 @@ scancel <JOB_ID>  # Cancel a job
 Below are the experimental results for GSM8K and News-summary tasks using LoRA, RoSA, and GaLore.
 
 ### GSM8K Task
-![GSM8K](figs/results1.png)
-![GSM8K](figs/results3.png)
-![GSM8K](figs/results4.png)
-![GSM8K](figs/results5.png)
-![GSM8K](figs/results6.png)
+![GSM8K](figs/result1.png)
+![GSM8K](figs/result3.png)
+![GSM8K](figs/result4.png)
+![GSM8K](figs/result5.png)
+![GSM8K](figs/result6.png)
 
 ### News Summary Task
-![News](figs/results2.png)
+![News](figs/result2.png)
 
 ### Computational Resource Usage
 ![GSM8K](figs/table1.png)
