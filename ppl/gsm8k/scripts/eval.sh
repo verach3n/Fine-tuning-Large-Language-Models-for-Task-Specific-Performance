@@ -12,7 +12,7 @@ CKPT=233
 # Modify the path
 export BASE="logs/${JOBID}/checkpoint/checkpoint-${CKPT}"
 
-source activate rosa
+source activate env2
 
 # Comment this line if you are running with GaLore
 python merge_adapter.py ${BASE}
