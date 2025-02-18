@@ -18,6 +18,9 @@ The framework supports both **training and evaluation**, making it easy to exper
 - Configurable hyperparameters for easy experimentation
 - Supports evaluation and inference with trained models
 
+### Pipeline Overview
+<img src="figs/ppl.png" alt="PPL" width="50%">
+
 ## Installation
 
 ### Prerequisites
@@ -106,18 +109,18 @@ scancel <JOB_ID>  # Cancel a job
 Below are the experimental results for GSM8K and News-summary tasks using LoRA, RoSA, and GaLore.
 
 ### GSM8K Task
-![GSM8K](figs/result1.png)
-![GSM8K](figs/result3.png)
-![GSM8K](figs/result4.png)
-![GSM8K](figs/result5.png)
-![GSM8K](figs/result6.png)
+<img src="figs/result1.png" alt="PPL" width="50%">
+<img src="figs/result3.png" alt="PPL" width="50%">
+<img src="figs/result4.png" alt="PPL" width="50%">
+<img src="figs/result5.png" alt="PPL" width="50%">
+<img src="figs/result6.png" alt="PPL" width="50%">
 
 ### News Summary Task
-![News](figs/result2.png)
+<img src="figs/result2.png" alt="PPL" width="50%">
 
 ### Computational Resource Usage
-![GSM8K](figs/table1.png)
-![News](figs/table2.png)
+<img src="figs/table1.png" alt="PPL" width="50%">
+<img src="figs/table2.png" alt="PPL" width="70%">
 
 ## 7. File Structure
 The repository is organized as follows:
