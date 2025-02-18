@@ -11,7 +11,7 @@ CKPT=31
 JOBID=3585893
 export BASE="logs/${JOBID}/checkpoint/checkpoint-${CKPT}"
 
-source activate rosa
+source activate env2
 
 python merge_adapter.py ${BASE}
 
