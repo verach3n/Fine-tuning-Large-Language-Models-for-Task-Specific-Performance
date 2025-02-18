@@ -8,6 +8,6 @@
 #SBATCH --output=logs/%A/out.out
 #SBATCH --error=logs/%A/err.err
 
-source activate galore_simple
+source activate env1
 
 python lora.py 
