@@ -7,6 +7,6 @@
 #SBATCH --nodes=1
 #SBATCH -A naiss2024-5-352
 
-source activate ppl
+source activate env1
 
 python rosa.py
